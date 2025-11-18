@@ -71,8 +71,8 @@
     - Recall:    0.9143
     - AUC-ROC:   0.9298
     - Confusion Matrix:
-    [70 30]
-    [9 96]
+      [70 30]
+      [9 96]
 
 ## 2. KNN
     k=1
