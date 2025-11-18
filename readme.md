@@ -19,13 +19,13 @@
 # Метрики
 ## 1. Логистическая регрессия:
 На тестовой выборке:
-  `Accuracy: 0.7951
-  Precision: 0.7563
-  Recall: 0.8738
-  AUC-ROC: 0.8793
-  Confusion Matrix:
+  - Accuracy: 0.7951
+  - Precision: 0.7563
+  - Recall: 0.8738
+  - AUC-ROC: 0.8793
+  - Confusion Matrix:
     [73 29]
-    [13 90]`
+    [13 90]
 
 ## 2. KNN
 На тестовой выборке:
@@ -66,12 +66,11 @@
 
 ## 1. Логистическая регрессия:
 На тестовой выборке:
-    Accuracy:  0.8098
-    Precision: 0.7619
-    Recall:    0.9143
-    AUC-ROC:   0.9298
-
-    Confusion Matrix:
+    - Accuracy:  0.8098
+    - Precision: 0.7619
+    - Recall:    0.9143
+    - AUC-ROC:   0.9298
+    - Confusion Matrix:
     [70 30]
     [9 96]
 
